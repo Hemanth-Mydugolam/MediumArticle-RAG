@@ -1,7 +1,5 @@
 # RAG Pipeline – Retrieval-Augmented Generation
 
-Based on *“RAG (Retrieval‑Augmented Generation): Make LLMs Smarter with Your Own Data”* :contentReference[oaicite:2]{index=2}
-
 ## 🔍 Overview
 
 This repository demonstrates how to build a simple RAG pipeline using:
@@ -28,7 +26,7 @@ It loads PDF documents, creates a searchable vector index, and allows question-a
     ```
 4. Run the script to build the index:
     ```bash
-    python main.py
+    python build_index.py
     ```
 5. Query the index:
     ```bash
