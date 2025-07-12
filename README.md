@@ -1,4 +1,5 @@
 # RAG Pipeline – Retrieval-Augmented Generation
+📌 **Note**: This repository is a working example that complements the concepts discussed in the [Medium article](https://medium.com/@hemanth.mydugolam/rag-retrieval-augmented-generation-make-llms-smarter-with-your-own-data-08e21835af21) titled *"RAG (Retrieval‑Augmented Generation): Make LLMs Smarter with Your Own Data"*.
 
 ## 🔍 Overview
 
@@ -13,7 +14,7 @@ It loads PDF documents, creates a searchable vector index, and allows question-a
 
 1. Clone the repo:
    ```bash
-   git clone <https://github.com/Hemanth-Mydugolam/MediumArticle-RAG>
+   git clone https://github.com/Hemanth-Mydugolam/MediumArticle-RAG
    cd MediumArticle-RAG
    ```
 2. Install dependencies:
