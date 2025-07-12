@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.env.*  # Exclude any .env-specific variations
+*.env
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
+
+# VSCode and Jupyter
+.vscode/
+.ipynb_checkpoints/
+
+# FAISS index and cache files
+faiss_index/
+*.faiss
+
+# Python packaging
+*.egg-info/
+build/
+dist/
+
+# Backup or temp files
+*.bak
+*.tmp
